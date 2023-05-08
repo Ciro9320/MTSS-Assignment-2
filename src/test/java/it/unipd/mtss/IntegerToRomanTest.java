@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////
+// MICHELE BETTIN 2042883
+// RICCARDO FAVARON 2042386
+////////////////////////////////////////////////////////////////////
+package it.unipd.mtss;
+
+import org.junit.Test;
+
+public class IntegerToRomanTest {
+    @Test
+    public void testConvert() {
+
+    }
+}
