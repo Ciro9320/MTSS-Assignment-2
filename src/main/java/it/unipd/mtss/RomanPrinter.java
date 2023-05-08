@@ -4,6 +4,8 @@
 ////////////////////////////////////////////////////////////////////
 package it.unipd.mtss;
 
+import java.util.HashMap;
+
 public class RomanPrinter {
 	
 	private static HashMap<Character, String[]> converter = null;

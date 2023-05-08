@@ -7,7 +7,7 @@ package it.unipd.mtss;
 
 public class NegativeNumberException extends Exception {
     /* Exception for negative number */
-    public NumberUnderZeroException() {
+    public NegativeNumberException() {
         super("Negative Roman number are not allowed in this program.");
     }
 }
