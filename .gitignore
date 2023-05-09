@@ -8,6 +8,9 @@
 # Compiled class file
 *.class
 
+# Enviroment variables
+*.env
+
 # Log file
 *.log
 
