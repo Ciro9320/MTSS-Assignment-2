@@ -1,3 +1,10 @@
 # MTSS-Assignment-2
 ![Checkstyle workflow](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/checkstyle.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/Ciro9320/MTSS-Assignment-2/badge.svg?branch=master)](https://coveralls.io/github/Ciro9320/MTSS-Assignment-2?branch=master)
+
+<!-- ciMatrixStart -->
+|    | [Ubuntu](https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu2004-Readme.md) | [Windows](https://github.com/actions/virtual-environments/blob/main/images/win/Windows2022-Readme.md) | [macOS](https://github.com/actions/virtual-environments/blob/main/images/macos/macos-11-Readme.md) |
+|----|:---:|:---:|:---:|
+| JDK 17 LTS |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_ubuntu_jdk17.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_ubuntu_jdk17.yml) |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_windows_jdk17.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_windows_jdk17.yml) |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_macos_jdk17.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_macos_jdk17.yml) |
+| JDK 18 |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_ubuntu_jdk18.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_ubuntu_jdk18.yml) |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_windows_jdk18.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_windows_jdk18.yml) |[![Java CI](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_macos_jdk18.yml/badge.svg?branch=master)](https://github.com/Ciro9320/MTSS-Assignment-2/actions/workflows/maven_macos_jdk18.yml) |
+<!-- ciMatrixEnd -->
