@@ -20,8 +20,8 @@ public class OtherTest {
     private int input;
 
     public OtherTest(String i, String eo) {
-        expectedOutput = eo;
         input = Integer.parseInt(i);
+        expectedOutput = eo;
     }
 
     @Parameters

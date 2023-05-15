@@ -20,8 +20,9 @@ public class IntegerToRomanTest {
     @Test
     public void testZeroNumber() throws NegativeNumberException, TooBigNumberException {
         int number = 0;
+        String expected = "";
         String roman_number = converter.convert(number);
-        assertEquals(roman_number, "");
+        assertEquals(expected, roman_number);
     }
 
     @Test(expected = NegativeNumberException.class)
